@@ -1,20 +1,27 @@
-# CRC Partners Web V1.1
+# CRC Partners Web V2.0
 
-Mejoras incorporadas:
-- Logo más visible.
-- Mejor distribución del hero.
-- Mejora visual de las fotografías principales.
-- Clientes en tarjetas descriptivas.
-- Mejoras de navegación y efecto hover.
-- Ajustes responsive.
+Versión premium del sitio corporativo de Cragg Russo & Casafranca Partners.
+
+## Cambios principales
+
+- Diseño reconstruido desde cero.
+- Hero más ejecutivo y profesional.
+- Mejor presentación de David y Erick.
+- Sección de valor empresarial.
+- Servicios ISO con tarjetas modernas.
+- Metodología en 5 pasos.
+- Sección “Qué obtiene su empresa”.
+- Clientes en tarjetas elegantes.
+- Preguntas frecuentes.
+- Contacto reforzado con WhatsApp y correo.
 
 ## Publicación
 
-Copiar el contenido de esta carpeta dentro de:
-`Documentos/GitHub/crcpartners-web`
-
-Luego:
-1. Abrir GitHub Desktop.
-2. Commit: `Mejoras visuales V1.1`
-3. Push origin.
-4. Revisar GitHub Pages.
+1. Copiar todo el contenido de esta carpeta en:
+   `Documentos/GitHub/crcpartners-web`
+2. Reemplazar archivos cuando Windows lo solicite.
+3. Abrir GitHub Desktop.
+4. Commit: `Versión premium V2.0`
+5. Push origin.
+6. Revisar:
+   https://dcasafranca2022-afk.github.io/crcpartners-web/

@@ -7,20 +7,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.querySelectorAll(".reveal").forEach(el => observer.observe(el));
 
-  const toggle = document.querySelector(".menu-toggle");
-  const menu = document.querySelector(".menu");
+  const button = document.querySelector(".menu-button");
+  const nav = document.querySelector(".main-nav");
 
-  if (toggle && menu) {
-    toggle.addEventListener("click", () => {
-      menu.style.display = menu.style.display === "flex" ? "none" : "flex";
-      menu.style.position = "absolute";
-      menu.style.top = "92px";
-      menu.style.left = "0";
-      menu.style.right = "0";
-      menu.style.background = "#ffffff";
-      menu.style.padding = "20px 5%";
-      menu.style.flexDirection = "column";
-      menu.style.boxShadow = "0 12px 24px rgba(8,36,69,.12)";
+  if (button && nav) {
+    button.addEventListener("click", () => {
+      nav.classList.toggle("open");
+    });
+
+    nav.querySelectorAll("a").forEach(link => {
+      link.addEventListener("click", () => nav.classList.remove("open"));
     });
   }
 });
