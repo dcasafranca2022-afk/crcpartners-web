@@ -1,29 +1,20 @@
-# CRC Partners Web V1.0
+# CRC Partners Web V1.1
 
-Sitio web corporativo inicial para Cragg Russo & Casafranca Partners.
+Mejoras incorporadas:
+- Logo más visible.
+- Mejor distribución del hero.
+- Mejora visual de las fotografías principales.
+- Clientes en tarjetas descriptivas.
+- Mejoras de navegación y efecto hover.
+- Ajustes responsive.
 
-## Archivos principales
+## Publicación
 
-- `index.html`
-- `assets/css/style.css`
-- `assets/js/script.js`
-- `assets/img/logo-crc.png`
-- `assets/img/erick-casafranca.png`
-- `assets/img/david-casafranca.png`
+Copiar el contenido de esta carpeta dentro de:
+`Documentos/GitHub/crcpartners-web`
 
-## Publicación en GitHub Pages
-
-1. Copiar todo el contenido de esta carpeta dentro de `Documentos/GitHub/crcpartners-web`.
-2. Abrir GitHub Desktop.
-3. Verificar los cambios.
-4. Escribir el resumen: `Publicación inicial CRC Partners`.
-5. Hacer clic en `Commit to main`.
-6. Hacer clic en `Push origin`.
-7. Abrir: https://dcasafranca2022-afk.github.io/crcpartners-web/
-
-## Datos configurados
-
-- WhatsApp: 981 760 638
-- Correo: e.casafranca@crcpars.com
-- Ubicación: Lima, Perú
-- Cobertura: Todo el Perú
+Luego:
+1. Abrir GitHub Desktop.
+2. Commit: `Mejoras visuales V1.1`
+3. Push origin.
+4. Revisar GitHub Pages.
