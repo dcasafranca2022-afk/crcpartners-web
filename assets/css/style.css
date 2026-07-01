@@ -339,3 +339,17 @@ linear-gradient(135deg,transparent,rgba(255,255,255,.28))}
     min-height:90px !important;
   }
 }
+
+/* V2.2.2 logo */
+.brand img{height:172px!important;max-width:580px!important;}
+.site-header{min-height:172px!important;}
+@media(max-width:1200px){.brand img{height:142px!important;max-width:480px!important;}}
+@media(max-width:980px){.brand img{height:104px!important;max-width:360px!important;}}
+@media(max-width:720px){.brand img{height:84px!important;max-width:300px!important;}}
+
+/* V2.2.3 logo +50% */
+.brand img{height:258px!important;max-width:760px!important;}
+.site-header{min-height:240px!important;}
+@media(max-width:1200px){.brand img{height:190px!important;max-width:560px!important;}.site-header{min-height:190px!important;}}
+@media(max-width:980px){.brand img{height:120px!important;max-width:400px!important;}.site-header{min-height:120px!important;}}
+@media(max-width:720px){.brand img{height:90px!important;max-width:300px!important;}.site-header{min-height:92px!important;}}
