@@ -1,27 +1,11 @@
-# CRC Partners Web V2.2.1 - Ajuste final del logo
+# CRC Partners Web V2.3 - David corporativo
 
-Esta versión conserva la V2.2.
+Conserva el diseño actual aprobado.
 
-## Único cambio aplicado
+## Cambio aplicado
+- Se reemplazó únicamente la fotografía de David por una versión corporativa con fondo azul y vestimenta tipo terno azul.
 
-- Logo de CRC Partners ampliado un poco más en la cabecera.
-
-No se modificaron:
-- Fotografías
-- Textos
-- Colores
-- Botones
-- Menú
-- Secciones
-- Distribución general
+No se modificaron logo, menú, textos, botones, colores, estructura ni fotografía de Erick.
 
 ## Publicación
-
-1. Descomprimir el ZIP.
-2. Copiar `index.html`, `README.md` y la carpeta `assets`.
-3. Pegar en `Documentos/GitHub/crcpartners-web`.
-4. Reemplazar archivos.
-5. En GitHub Desktop:
-   Commit: `V2.2.1 ajuste final logo`
-6. Push origin.
-7. Revisar con Ctrl + F5.
+Commit sugerido: `V2.3 David corporativo`
