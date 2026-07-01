@@ -1,18 +1,27 @@
-# CRC Partners Web V2.1
+# CRC Partners Web V2.2 - Logo ampliado
 
-Correcciones visuales:
-- Logo más grande y visible.
-- Fotos del hero reducidas y mejor proporcionadas.
-- Hero más equilibrado.
-- Mejor lectura del mensaje principal.
+Esta versión conserva la V2.1 aprobada.
+
+## Único cambio aplicado
+
+- Logo de CRC Partners ampliado en la cabecera.
+
+No se modificaron:
+- Fotografías
+- Textos
+- Colores
+- Botones
+- Menú
+- Secciones
+- Distribución general
 
 ## Publicación
 
-Copiar todo el contenido de esta carpeta en:
-`Documentos/GitHub/crcpartners-web`
-
-Luego:
-1. GitHub Desktop
-2. Commit: `Ajustes visuales V2.1`
-3. Push origin
-4. Actualizar la web con Ctrl + F5
+1. Descomprimir el ZIP.
+2. Copiar `index.html`, `README.md` y la carpeta `assets`.
+3. Pegar en `Documentos/GitHub/crcpartners-web`.
+4. Reemplazar archivos.
+5. En GitHub Desktop:
+   Commit: `V2.2 logo ampliado`
+6. Push origin.
+7. Revisar con Ctrl + F5.
