@@ -1,10 +1,10 @@
-# CRC Partners Web V2.2 - Logo ampliado
+# CRC Partners Web V2.2.1 - Ajuste final del logo
 
-Esta versión conserva la V2.1 aprobada.
+Esta versión conserva la V2.2.
 
 ## Único cambio aplicado
 
-- Logo de CRC Partners ampliado en la cabecera.
+- Logo de CRC Partners ampliado un poco más en la cabecera.
 
 No se modificaron:
 - Fotografías
@@ -22,6 +22,6 @@ No se modificaron:
 3. Pegar en `Documentos/GitHub/crcpartners-web`.
 4. Reemplazar archivos.
 5. En GitHub Desktop:
-   Commit: `V2.2 logo ampliado`
+   Commit: `V2.2.1 ajuste final logo`
 6. Push origin.
 7. Revisar con Ctrl + F5.
